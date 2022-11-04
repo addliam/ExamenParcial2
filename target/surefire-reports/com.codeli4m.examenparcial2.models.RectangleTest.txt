@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codeli4m.examenparcial2.models.RectangleTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 sec
